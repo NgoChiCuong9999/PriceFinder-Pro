@@ -109,5 +109,6 @@ The application launches instantly and can be used immediately, keeping things s
 🎯 CONCLUSION
 
 PriceFinder-Pro is a powerful yet simple product search and price comparison application. It is ideal for learning, practicing Java programming, academic projects, and demonstrations. With essential features such as instant search, webpage access, bookmark management, and price comparison, the software provides a smooth and effective user experience.
+
 MY VIDEO DEMO:
 https://youtu.be/tA2S-UiNDq8
